@@ -1,0 +1,15 @@
+C:\Users\nharash\source\repos\.Net-Use-Case-7-GPT4-\UseCase#7\UseCase#7\bin\Debug\net6.0\UseCase#7.exe
+C:\Users\nharash\source\repos\.Net-Use-Case-7-GPT4-\UseCase#7\UseCase#7\bin\Debug\net6.0\UseCase#7.deps.json
+C:\Users\nharash\source\repos\.Net-Use-Case-7-GPT4-\UseCase#7\UseCase#7\bin\Debug\net6.0\UseCase#7.runtimeconfig.json
+C:\Users\nharash\source\repos\.Net-Use-Case-7-GPT4-\UseCase#7\UseCase#7\bin\Debug\net6.0\UseCase#7.dll
+C:\Users\nharash\source\repos\.Net-Use-Case-7-GPT4-\UseCase#7\UseCase#7\bin\Debug\net6.0\UseCase#7.pdb
+C:\Users\nharash\source\repos\.Net-Use-Case-7-GPT4-\UseCase#7\UseCase#7\obj\Debug\net6.0\UseCase#7.csproj.AssemblyReference.cache
+C:\Users\nharash\source\repos\.Net-Use-Case-7-GPT4-\UseCase#7\UseCase#7\obj\Debug\net6.0\UseCase#7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nharash\source\repos\.Net-Use-Case-7-GPT4-\UseCase#7\UseCase#7\obj\Debug\net6.0\UseCase#7.AssemblyInfoInputs.cache
+C:\Users\nharash\source\repos\.Net-Use-Case-7-GPT4-\UseCase#7\UseCase#7\obj\Debug\net6.0\UseCase#7.AssemblyInfo.cs
+C:\Users\nharash\source\repos\.Net-Use-Case-7-GPT4-\UseCase#7\UseCase#7\obj\Debug\net6.0\UseCase#7.csproj.CoreCompileInputs.cache
+C:\Users\nharash\source\repos\.Net-Use-Case-7-GPT4-\UseCase#7\UseCase#7\obj\Debug\net6.0\UseCase#7.dll
+C:\Users\nharash\source\repos\.Net-Use-Case-7-GPT4-\UseCase#7\UseCase#7\obj\Debug\net6.0\refint\UseCase#7.dll
+C:\Users\nharash\source\repos\.Net-Use-Case-7-GPT4-\UseCase#7\UseCase#7\obj\Debug\net6.0\UseCase#7.pdb
+C:\Users\nharash\source\repos\.Net-Use-Case-7-GPT4-\UseCase#7\UseCase#7\obj\Debug\net6.0\UseCase#7.genruntimeconfig.cache
+C:\Users\nharash\source\repos\.Net-Use-Case-7-GPT4-\UseCase#7\UseCase#7\obj\Debug\net6.0\ref\UseCase#7.dll
